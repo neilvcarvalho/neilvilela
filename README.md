@@ -1,6 +1,6 @@
 ### Hi, I'm Neil 👋
 
-I've been working for the last 10 years in making brazilian entrepreneurs worry less about bureaucracy and more about how to manage their companies.
+I'm a developer who loves creating and maintaining products that makes people's lives better.
 
 - ⚕️ I've had academic experience in telemedicine and health tech. I'd _love_ to work on that subject, too.
 - ⚗️ I try some Elixir programming now and then and it's very likely my next language.
